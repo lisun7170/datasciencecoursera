@@ -1,10 +1,5 @@
 ## This is a markdown file
 
-This is a very very brief instruction how to fork a repository
-
-Fork an example repository
-
-Forking a repository is a simple two-step process. We've created a repository for you to practice with!
-
-On GitHub, navigate to the octocat/Spoon-Knife repository.
-Fork buttonIn the top-right corner of the page, click Fork.
+* You have to name your file something.md in order to markdown (yes/no)
+* To insert an image you use `![](image.jpg)`
+![](http://lazowska.cs.washington.edu/MS/DS.wordle.jpg)
