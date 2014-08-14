@@ -21,3 +21,5 @@
 
 * use markdown to insert an image like this `![](http://cccta.us/wp-content/uploads/2013/04/Picture6-829x344.jpg)`
 ![](http://cccta.us/wp-content/uploads/2013/04/Picture6-829x344.jpg)
+* This is a hyperlink to Google `[Google](http://www.google.com)` [Google](http://www.google.com) in markdown
+* This is a hyperlink to Google `<a href=http://www.google.com>Google</a>` <a href=http://www.google.com>Google</a> in markup
