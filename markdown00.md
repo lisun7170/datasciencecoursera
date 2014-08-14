@@ -11,6 +11,6 @@
 * Nine courses 
 * Goes from raw data to data products
 
-<li> Uses R 
+<li> Uses R </li>
 li Nine courses 
 * Goes from raw data to data products
