@@ -11,9 +11,9 @@
 * Nine courses 
 * Goes from raw data to data products
 
-*`<li>` and `</li>` don't work
+* `<li>` and `</li>` don't work
 <li> Uses R </li>
-li Nine courses 
+* Nine courses 
 * Goes from raw data to data products
 
 * use markup to insert an image like this `<img src=http://cccta.us/wp-content/uploads/2013/04/Picture6-829x344.jpg>`
