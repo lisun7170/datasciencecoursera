@@ -10,7 +10,8 @@
 * Uses R
 * Nine courses
 * Goes from raw data to data products
-* `<li>` and `</li>` also work
+
+`<li>` and `</li>` are not recommanded
 <li> Uses R </li>
 * Nine courses 
 * Goes from raw data to data products
