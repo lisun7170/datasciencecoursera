@@ -14,3 +14,5 @@
 <li> Uses R </li>
 li Nine courses 
 * Goes from raw data to data products
+
+<img src=http://cccta.us/wp-content/uploads/2013/04/Picture6-829x344.jpg>
