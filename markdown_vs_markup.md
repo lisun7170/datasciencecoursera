@@ -17,7 +17,7 @@
 * Goes from raw data to data products
 
 * use markup to insert an image like this `<img src=http://voices.nationalgeographic.com/files/2013/04/NationalGeographic_1467467.jpg>`
-<img src=http://cccta.us/wp-content/uploads/2013/04/Picture6-829x344.jpg>
+<img src=http://voices.nationalgeographic.com/files/2013/04/NationalGeographic_1467467.jpg hight=400>
 
 * use markdown to insert an image like this `![](http://voices.nationalgeographic.com/files/2013/04/NationalGeographic_1467467.jpg)`
 ![](http://voices.nationalgeographic.com/files/2013/04/NationalGeographic_1467467.jpg)
